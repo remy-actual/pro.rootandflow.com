@@ -1,8 +1,8 @@
-pygments: true
-permalink: /:year/:month/:day/:title
-title: My Project Timeline
-baseurl: /project-timeline
-linked_posts: true
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title
+title: 'Website Development Timeline: RootAndFlow.com'
+url: "http://pro.rootandflow.com"
+baseurl: ""
 
 # Sets the default folder in Prose.io
 # Sets the default metadata in Prose.io
